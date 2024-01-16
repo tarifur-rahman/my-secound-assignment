@@ -73,4 +73,19 @@
     .destination-title{
         font-size: 1.25rem;
     }
+    .choose-part-one{
+        grid-column: 1/span 12;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .choose-part-two{
+        grid-column: 1/span 12;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .choose-part-three{
+        grid-column: 1/span 12;
+        width: 90%;
+        margin: 0 auto;
+    }
 }
