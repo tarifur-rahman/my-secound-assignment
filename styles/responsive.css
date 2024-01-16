@@ -41,4 +41,36 @@
     .popular-contant-section{
         width: 96%;
     }
+    .destination-img-section img{
+        width: 400px;
+        height: 200px;
+        margin-left: 5px;
+    }
+    .img-one{
+        grid-column: 1 /span 12;
+    }
+    .img-two{
+        grid-column: 1 /span 12;
+    }
+    .img-three{
+        grid-column: 1 /span 12;
+    }
+    .img-four{
+        grid-column: 1 /span 12;
+    }
+    .img-five{
+        grid-column: 1 /span 12;
+    }
+    .img-six{
+        grid-column: 1 /span 12;
+    }
+    .img-seven{
+        grid-column: 1 /span 12;
+    }
+    .destination-description{
+        padding: 10px;
+    }
+    .destination-title{
+        font-size: 1.25rem;
+    }
 }
