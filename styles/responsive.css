@@ -113,4 +113,20 @@
     .discount{
         margin-bottom: 20px;
     }
+    .footer-logo-section{
+        display: flex;
+        margin-left:70px ;
+        padding: 10px;
+    }
+    .icon{
+        margin-left: 80px;
+        padding: 10px;
+    }
+    .footer-section hr{
+        margin-left: 60px;
+    }
+    .copy-right{
+        margin: 70px;
+        padding-bottom: 30px;
+    }
 }
