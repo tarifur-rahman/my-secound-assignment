@@ -88,4 +88,11 @@
         width: 90%;
         margin: 0 auto;
     }
+    .simple-place-section{
+        flex-direction: column;
+        padding: 20px;
+    }
+    .place-title{
+        font-size: 2rem;
+    }
 }

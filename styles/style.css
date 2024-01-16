@@ -275,3 +275,43 @@ li a{
     font-weight: 400;
     line-height: 26px;
 }
+/* simple place section style */
+.simple-place-section{
+    max-width: 992px;
+    margin: 100px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 30px;
+}
+.simple-place-img img{
+    height: 100%;
+    width: 100%;
+}
+.simple-place-img{
+    width: 100%;
+}
+.simple-place-contant{
+    width: 100%;
+}
+.place-title{
+    color: #131318;
+    font-size: 2.5rem;
+    font-weight: 800;
+    line-height: 60px;
+    margin-bottom: 10px;
+}
+.place-description{
+    color: #5A5A5D;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom:20px ;
+    
+}
+.simple-place-contant li{
+    color: #131318;
+    font-weight: 700;
+    line-height: 26px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
