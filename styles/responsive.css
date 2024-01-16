@@ -35,4 +35,10 @@
     .banner-description{
         width: 100%;
     }
+    .popular-section{
+        flex-direction: column;
+    }
+    .popular-contant-section{
+        width: 96%;
+    }
 }
