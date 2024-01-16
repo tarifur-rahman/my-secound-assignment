@@ -95,4 +95,22 @@
     .place-title{
         font-size: 2rem;
     }
+    .subscribe-section{
+        flex-direction: column;
+        padding: 10px;
+    }
+     .subscribe-form-section{
+        width: 100%;
+    } 
+    .subscribe-img-section{
+        position: relative;
+    }
+    .save-up{
+        position: absolute;
+        top: 140px;
+        left: 190px;
+    }
+    .discount{
+        margin-bottom: 20px;
+    }
 }
