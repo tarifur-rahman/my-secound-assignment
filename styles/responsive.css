@@ -29,4 +29,10 @@
     #check:checked ~ ul{
         left: 0;
     }
+    .button-section{
+        flex-direction: column;
+    }
+    .banner-description{
+        width: 100%;
+    }
 }
